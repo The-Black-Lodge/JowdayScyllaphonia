@@ -1,8 +1,8 @@
 # Scyllaphonia
 
-Removes Scylla's vocals during the Oceanus boss fight.
+Removes the boss fight music during the Scylla fight. Instead, the zone background music will play.
 
 ## Features
 
-- Prevent shipwrecks by muting Scylla's singing.
+- Prevent shipwrecks.
 
