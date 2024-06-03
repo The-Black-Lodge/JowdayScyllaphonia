@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Jowday"
 name = "Scyllaphonia"
-versionNumber = "1.0.0"
+versionNumber = "1.0.1"
 description = "Removes the Scylla boss music."
 websiteUrl = "https://github.com/The-Black-Lodge/JowdayScyllaphonia"
 containsNsfwContent = false
